@@ -1,7 +1,7 @@
 {
   "name": "9p",
   "version": "1.0.0",
-  "description": "Please not that the image `mukulksingh98/sit737:latest` for Kubernetes deployment has been pushed to DockerHub.",
+  "description": "Please note that the image `mukulksingh98/sit737:latest` for Kubernetes deployment has been pushed to DockerHub.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
